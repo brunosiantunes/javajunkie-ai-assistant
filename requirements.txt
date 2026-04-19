@@ -1,2 +1,2 @@
 streamlit
-groqgit add requirements.txt
+groqgit
