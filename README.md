@@ -1,5 +1,3 @@
----
-
 # JavaJunkie - AI Assistant ☕🤖
 
 > **Assistente IA para auxiliar nos meus estudos em Java, feito em Python.**
