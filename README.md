@@ -1,8 +1,8 @@
 # JavaJunkie - AI Assistant ☕🤖
 
-> **Assistente IA para auxiliar nos meus estudos em Java, feito em Python.**
+> **Assistente IA para auxiliar nos estudos em Java, feito em Python.**
 
-### 🔗 [Acesse o JavaJunkie ao vivo aqui!](https://brun-javajunkie.streamlit.app/)
+### 🔗 [Acesse o JavaJunkie](https://brun-javajunkie.streamlit.app/)
 
 ---
 
